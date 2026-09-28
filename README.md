@@ -162,13 +162,20 @@ I use **SQL, Python, Excel, BigQuery and BI tools** to connect business question
 
 ## 🛠️ Technology Stack
 
-**SQL:** SQL • GoogleSQL • BigQuery  
-**Python:** Python • Pandas • EDA • Feature Engineering  
-**BI:** Tableau • Power BI • Looker Studio  
-**Analytics:** Excel • Statistics • Data Visualisation • KPI Analysis  
-**Data Science:** Machine Learning • Predictive Analytics  
-**AI:** Generative AI • LLMs • Prompt Engineering  
-**Tools:** Git • GitHub • Google Colab • Jupyter
+### Core Analytics
+SQL • GoogleSQL • BigQuery • Python • Pandas • Excel
+
+### BI & Visualization
+Tableau • Power BI • Looker Studio • Dashboarding • KPI Analysis
+
+### Data Science
+Statistics • Exploratory Data Analysis • Feature Engineering • Machine Learning • Predictive Analytics
+
+### AI
+Generative AI • LLMs • Prompt Engineering • AI-assisted Analytics
+
+### Tools
+Git • GitHub • Google Colab • Jupyter • Google Sheets
 
 ---
 
