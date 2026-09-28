@@ -182,9 +182,9 @@ Git • GitHub • Google Colab • Jupyter • Google Sheets
 ## 📚 Currently Learning
 
 - Advanced SQL and analytical problem solving
-- Python for data science
+- Python for data science and applied analytics
 - Statistics and machine learning
-- Applied data science
+- Applied data science and predictive modelling
 - Generative AI and LLM applications
 - AI-assisted business analytics
 
@@ -192,14 +192,16 @@ Git • GitHub • Google Colab • Jupyter • Google Sheets
 
 ## 🎯 What I'm Looking For
 
-I am interested in opportunities where I can combine **business understanding + analytics + technology**.
+I am interested in opportunities where I can combine **business understanding, analytics and technology** to solve real-world business problems.
 
-**Data Analyst • Business Analyst • BI Analyst • Business Analytics • Data Science**
+**Primary:** Data Analyst • Business Analyst • BI Analyst • Business Analytics
+
+**Growth Areas:** Data Science • Applied Analytics • AI & Analytics
 
 ---
 
 ## 📫 Connect
 
-- 💼 LinkedIn: [Vijay Kumar](https://www.linkedin.com/)
+- 💼 LinkedIn: [Vijay Kumar](https://www.linkedin.com/in/vijaybsbs/)
 - 💻 GitHub: [@vijaybsbs](https://github.com/vijaybsbs)
 
