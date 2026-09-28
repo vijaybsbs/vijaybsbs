@@ -13,6 +13,11 @@ I combine **business understanding with data and technology** to transform busin
 🎓 Pursuing **MS in Data Science through the Scaler–Woolf pathway**  
 🎯 Target roles: **Data Analyst | Business Analyst | BI Analyst**
 
+## 📫 Connect
+
+- 💼 LinkedIn: [Vijay Kumar](https://www.linkedin.com/in/vijaybsbs/)
+- 💻 GitHub: [@vijaybsbs](https://github.com/vijaybsbs)
+
 ---
 
 ## 📊 Featured Analytics Projects
@@ -159,23 +164,15 @@ I bring practical experience across **Business Development, Sales, CRM, Revenue 
 
 ### Commercial & CRM Analytics
 
-- Sales and revenue performance analysis
-- CRM activity and lead-funnel analytics
-- Daily sales productivity and activity reporting
-- Customer, dealer and project business analysis
-- KPI tracking and performance dashboards
-- Lead generation, nurturing and conversion analysis
-- Data-driven sales planning and decision-making
+- Sales and revenue performance analysis; CRM activity and lead-funnel analytics
+- Daily sales productivity, KPI tracking and performance dashboards
+- Created a lead generation → nurture → conversion SOP supported by daily sales reporting
 
 ### Business Development & Stakeholder Management
 
-- Architect and builder engagement
-- Dealer and channel management
-- Project and specification business
-- Product presentations and technical demonstrations
+- Architect, builder and dealer/channel engagement; project and specification business
 - Cross-functional coordination with marketing and sales teams
-- Created a lead generation → nurture → conversion SOP supported by daily sales reporting
-- Conducted knowledge-sharing / L&L sessions for design and execution teams, including an event with **20+ participants**
+- Conducted knowledge-sharing / L&L sessions for design and execution teams
 
 ### Data-Driven Approach
 
@@ -187,7 +184,7 @@ I use **SQL, Python, Excel, BigQuery and BI tools** to connect business question
 
 ## 🎓 Education & Professional Learning
 
-### MS in Data Science — Scaler × Woolf
+### MS in Data Science — Scaler × Woolf *(in progress)*
 
 I am pursuing a **Master of Science (MS) in Data Science** through the Scaler learning pathway, with the academic degree awarded by **Woolf Higher Education Institution**.
 
@@ -213,8 +210,6 @@ Business Analytics • Generative AI • AI for Decision-Making • Predictive &
 
 ### 🎓 Bachelor of Engineering (B.E.) — Mechatronics
 
-**Engineering**
-
 ---
 
 ## 📚 Currently Learning
@@ -236,8 +231,3 @@ I am interested in opportunities where I can combine **business understanding, a
 **Growth Areas:** Business Analytics • Applied Analytics • Data Science • AI & Analytics
 
 ---
-
-## 📫 Connect
-
-- 💼 LinkedIn: [Vijay Kumar](https://www.linkedin.com/in/vijaybsbs/)
-- 💻 GitHub: [@vijaybsbs](https://github.com/vijaybsbs)
