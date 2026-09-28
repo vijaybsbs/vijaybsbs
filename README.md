@@ -50,8 +50,6 @@ The curriculum covers areas such as **exploratory data analysis, statistics, pre
 
 The final applied component is designed around solving a **real-world data problem**, connecting academic learning with practical data-science work.
 
-> **Important academic distinction:** Scaler provides the learning pathway/curriculum, while the master's degree itself is awarded by Woolf. Woolf is a foreign higher-education institution; Scaler's current public information states that Woolf is not recognised by UGC/AICTE in India, while the programme uses the ECTS framework. I therefore present this credential transparently as a **Woolf-awarded MS pursued through the Scaler pathway**, rather than as an Indian UGC/AICTE degree.
-
 ---
 
 ## 🔎 What I Bring
