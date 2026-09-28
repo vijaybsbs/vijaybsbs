@@ -69,7 +69,7 @@ SQL • GoogleSQL • BigQuery • Python • Pandas • Excel • Exploratory D
 Tableau • Looker Studio • Dashboarding • KPI Analysis • Reporting • Power BI
 
 ### Data Science & AI
-Machine Learning • Feature Engineering • Predictive Analytics • Generative AI • LLMs • Prompt Engineering • AI-assisted Analytics
+• Feature Engineering • Generative AI • Prompt Engineering • AI-assisted Analytics
 
 ### Tools
 Git • GitHub • Google Colab • Jupyter • Google Sheets
@@ -169,10 +169,10 @@ SQL • GoogleSQL • BigQuery • Python • Pandas • Excel
 Tableau • Power BI • Looker Studio • Dashboarding • KPI Analysis
 
 ### Data Science
-Statistics • Exploratory Data Analysis • Feature Engineering • Machine Learning • Predictive Analytics
+Statistics • Exploratory Data Analysis • Feature Engineering
 
 ### AI
-Generative AI • LLMs • Prompt Engineering • AI-assisted Analytics
+Generative AI • AI-assisted Analytics
 
 ### Tools
 Git • GitHub • Google Colab • Jupyter • Google Sheets
