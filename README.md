@@ -127,21 +127,34 @@ Data preparation and feature-engineering analysis for operational and business a
 
 ---
 
-## 💼 Business + Data
+## 💼 Business + Data Experience
 
-My career sits at the intersection of **business and data**.
+My career sits at the intersection of **business, sales, data and technology**.
 
-I bring practical experience in:
+I bring practical experience across **Business Development, Sales, CRM, Revenue Analysis, Manufacturing and Entrepreneurship**, with a growing focus on data-driven decision-making.
 
-- Sales and revenue analysis
-- CRM and lead-funnel analytics
-- Business performance reporting
-- Customer and dealer analysis
-- KPI dashboards
-- Data-driven business decisions
-- Cross-functional stakeholder management
+### Commercial & CRM Analytics
 
-My approach:
+- Sales and revenue performance analysis
+- CRM activity and lead-funnel analytics
+- Daily sales productivity and activity reporting
+- Customer, dealer and project business analysis
+- KPI tracking and performance dashboards
+- Lead generation, nurturing and conversion analysis
+- Data-driven sales planning and decision-making
+
+### Business Development & Stakeholder Management
+
+- Architect and builder engagement
+- Dealer and channel management
+- Project and specification business
+- Product presentations and technical demonstrations
+- Cross-functional coordination with marketing and sales teams
+- Business reporting and performance reviews
+
+### Data-Driven Approach
+
+I use **SQL, Python, Excel, BigQuery and BI tools** to connect business questions with data and translate analysis into actionable business insights.
 
 **Business Problem → Data → Analysis → Insight → Action**
 
