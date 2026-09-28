@@ -22,11 +22,11 @@ I combine **business understanding with data and technology** to transform busin
 
 End-to-end e-commerce analytics covering data quality, customer behaviour, geography, order economics, payments, logistics, delivery performance, customer experience and RFM analysis.
 
-**Selected findings**
-- **97%** of active customers are one-time buyers; repeat customers represent **3%**.
-- **48.85%** of customers account for **80% of observed customer value**.
-- São Paulo, Rio de Janeiro and Minas Gerais represent **61.24%** of recent high-value one-time customers.
-- **80.82%** of recent high-value one-time orders contain a single item.
+**Selected findings & business implications**
+- **97%** of active customers are one-time buyers; repeat customers represent only **3%** → retention initiatives should focus on converting one-time buyers into repeat customers.
+- **48.85%** of customers account for **80% of observed customer value** → customer-value concentration can help prioritize retention and targeted engagement.
+- São Paulo, Rio de Janeiro and Minas Gerais represent **61.24%** of recent high-value one-time customers → these markets provide a clear geographic focus for retention and cross-sell initiatives.
+- **80.82%** of recent high-value one-time orders contain a single item → cross-sell and basket-expansion opportunities should be investigated for high-value one-time customers.
 
 **Key skills:** SQL • BigQuery • Data Modelling • CTEs • Window Functions • RFM • KPI Analysis • Dashboarding
 
@@ -39,11 +39,12 @@ End-to-end e-commerce analytics covering data quality, customer behaviour, geogr
 
 Retail sales and inventory analysis across **50 stores and 35 products**, covering revenue, cost, product performance, store performance, pricing, inventory risk and Pareto analysis.
 
-**Selected findings**
+**Selected findings & business implications**
 - **$14.44M revenue**, **$4.01M gross profit** and **27.79% gross margin**.
-- The top **15 of 35 products generate approximately 80.08% of revenue**.
-- Toys is the largest revenue category at **35.26%**, while Electronics has the highest gross margin at **44.57%**.
-- The top five cities contribute approximately **41.58% of revenue**.
+- The top **15 of 35 products (43%) generate approximately 80.08% of revenue** → revenue is concentrated, but not at a classic 80/20 level; availability and replenishment of these high-contribution products deserve priority.
+- Toys is the largest revenue category at **35.26%**, while Electronics has the highest gross margin at **44.57%** → category strategy should balance revenue scale with margin contribution.
+- **157 store-product combinations have no inventory record**, while **7 duplicate inventory rows** require data-quality attention → inventory decisions should account for incomplete and duplicated inventory records.
+- **3 inventory records have stock despite no historical sales** → these combinations warrant review for assortment fit, local demand or potential overstock.
 
 **Key skills:** SQL • Window Functions • Ranking • Pareto Analysis • Retail Analytics • Inventory Analysis • Dashboarding
 
@@ -51,10 +52,25 @@ Retail sales and inventory analysis across **50 stores and 35 products**, coveri
 
 ---
 
+### 🚲 Yulu Bike Rental Demand & Hypothesis Testing
+**Python / EDA / Statistics**
+
+Bike rental demand analysis using exploratory data analysis and statistical hypothesis testing to evaluate the impact of working days, seasons, weather and environmental factors on demand.
+
+**Analytical focus:** demand drivers • hypothesis testing • statistical significance • seasonality • weather effects
+
+**Key skills:** Python • Pandas • EDA • Statistics • Hypothesis Testing • Business Analytics
+
+🔗 [View Project](https://github.com/vijaybsbs/Yulu-Bike-Rental-Demand-Hypothesis-Testing-and-Business-Analytics)
+
+---
+
 ### 🍷 Australian Wine Company Insights
 **Tableau**
 
 Interactive business intelligence dashboard focused on sales performance, product analysis, customer trends and business insights.
+
+**Business focus:** sales performance • product contribution • customer contribution • KPI monitoring • trend analysis
 
 🔗 [View Tableau Project](https://public.tableau.com/views/AustralianWineCompanyInsightsDashboard_17593967646220/AustralianWineCompanyInsightsDashboard)
 
@@ -78,20 +94,11 @@ End-to-end restaurant analysis covering pricing, ratings, online delivery, custo
 
 Logistics data analysis and feature engineering to transform trip-level operational data into model-ready features for route, delivery and performance analysis.
 
+**Business focus:** trip-level grain • route performance • actual vs estimated distance/time • operational feature engineering
+
 **Key skills:** Python • Pandas • Data Cleaning • Feature Engineering • Operational Analytics
 
 🔗 [View Project](https://github.com/vijaybsbs/Delhivery-Logistics-Data-Analysis-and-Feature-Engineering)
-
----
-
-### 🚲 Yulu Bike Rental Demand & Hypothesis Testing
-**Python / EDA / Statistics**
-
-Bike rental demand analysis using exploratory data analysis and statistical hypothesis testing to evaluate the impact of working days, seasons, weather and environmental factors on demand.
-
-**Key skills:** Python • Pandas • EDA • Statistics • Hypothesis Testing • Business Analytics
-
-🔗 [View Project](https://github.com/vijaybsbs/Yulu-Bike-Rental-Demand-Hypothesis-Testing-and-Business-Analytics)
 
 ---
 
@@ -137,7 +144,8 @@ I bring practical experience across **Business Development, Sales, CRM, Revenue 
 - Project and specification business
 - Product presentations and technical demonstrations
 - Cross-functional coordination with marketing and sales teams
-- Business reporting and performance reviews
+- Created a lead generation → nurture → conversion SOP supported by daily sales reporting
+- Conducted knowledge-sharing / L&L sessions for design and execution teams, including an event with **20+ participants**
 
 ### Data-Driven Approach
 
