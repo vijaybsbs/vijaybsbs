@@ -74,9 +74,18 @@ Bike rental demand analysis using exploratory data analysis and statistical hypo
 ### 🍷 Australian Wine Company Insights
 **Tableau**
 
-Interactive business intelligence dashboard focused on sales performance, product analysis, customer trends and business insights.
+Interactive business intelligence dashboard focused on sales performance, revenue targets, regional performance, freight costs, product-segment trends and customer retention.
 
-**Business focus:** sales performance • product contribution • customer contribution • KPI monitoring • trend analysis
+**Selected findings & business implications**
+- **Revenue reached 9.24M against a 9.751M target**, representing approximately **94.8% target achievement** → the business was below its revenue target by about **0.51M** in the dashboard period.
+- **Order quantity was 129,284 against a target of 372,420**, representing approximately **34.7% target achievement** → quantity performance shows a substantial gap relative to the target.
+- The dashboard reports an **average discount of 4.96%**, **freight expense of 119,699** and an **average unit price of 88**, providing a basis for monitoring pricing, discounting and logistics costs together.
+- Regional revenue varies materially across the states shown in the dashboard, including **South Australia (962,572)**, **Tasmania (795,403)** and **Northern Territory (514,268)** → regional performance can be compared to identify differences in revenue contribution.
+- Revenue trends vary across wine segments over time: **Red Wine shows a relatively consistent pattern**, while **Rose/Sparkling Wine shows greater volatility** and **White Wine records a pronounced revenue spike around 2012**.
+- Order quantity increases across the displayed years, rising from approximately **25K in 2010 to 42K in 2013** → the dashboard indicates increasing order volume over the period.
+- The customer retention view shows a growing contribution from customers associated with earlier ordering periods over time, providing a basis for monitoring **repeat-order behaviour and customer retention**.
+
+**Business focus:** revenue performance • target tracking • regional analysis • wine-segment trends • freight analysis • customer retention
 
 🔗 [View Tableau Project](https://public.tableau.com/views/AustralianWineCompanyInsightsDashboard_17593967646220/AustralianWineCompanyInsightsDashboard)
 
