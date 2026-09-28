@@ -2,9 +2,13 @@
 
 ### Business Analytics | Data Analytics | Data Science | Gen AI
 
-I combine **business-domain experience with data and technology** to turn business problems into measurable insights and data-driven decisions.
+I am a **business professional with experience in Business Development, Sales, CRM, Manufacturing and Entrepreneurship**, now specializing in **Data Analytics, Business Intelligence and Data Science**.
 
-My background spans **Business Development, Sales, CRM, Manufacturing and Entrepreneurship**, and I am now building deeper expertise in **Data Analytics, Data Science and Generative AI**.
+I combine **business understanding with data and technology** to transform business problems into **measurable insights, actionable recommendations and data-driven decisions**.
+
+My approach:
+
+**Business Problem → Data → Analysis → Insight → Action**
 
 📍 Bengaluru, India  
 💼 Assistant Manager – Business Development  
