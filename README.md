@@ -8,7 +8,7 @@ I combine **business understanding with data and technology** to transform busin
 
 **Business Problem → Data → Analysis → Insight → Action**
 
-📍 Bengaluru, India  
+📍 Bangalore, India  
 💼 Assistant Manager – Business Development  
 🎓 Pursuing **MS in Data Science through the Scaler–Woolf pathway**  
 🎯 Target roles: **Data Analyst | Business Analyst | BI Analyst**
