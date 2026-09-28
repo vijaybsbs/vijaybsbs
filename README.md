@@ -17,42 +17,43 @@ My approach:
 
 ---
 
-## 🎓 MS in Data Science — Scaler × Woolf
+## 🎓 Education & Professional Learning
 
-I am pursuing a **Master of Science in Data Science** through the Scaler learning ecosystem, with the academic degree awarded by **Woolf Higher Education Institution**.
+### MS in Data Science — Scaler × Woolf
 
-The programme is an **EQF Level 7 master's-level qualification** and is structured around the **European Credit Transfer and Accumulation System (ECTS)**.
+I am pursuing a **Master of Science (MS) in Data Science** through the Scaler learning pathway, with the academic degree awarded by **Woolf Higher Education Institution**.
 
-### Degree at a glance
+- **Degree:** Master of Science (MS) in Data Science
+- **Academic Institution:** Woolf Higher Education Institution
+- **Learning Pathway:** Scaler
+- **Level:** EQF Level 7
+- **Academic Credits:** 90 ECTS
+- **Delivery:** Online
 
-| Academic Detail | Programme |
-|---|---|
-| Degree | Master of Science (MS) in Data Science |
-| Academic Institution | Woolf Higher Education Institution |
-| Learning Pathway | Scaler |
-| Level | EQF Level 7 |
-| Total Workload | 2,250 hours |
-| Academic Credits | 90 ECTS |
-| Delivery | Online |
-| Typical Duration | 18 months |
+**Core Areas:**  
+Data Analytics • Statistics • SQL • Python • Machine Learning • Predictive Modelling • Data Visualisation • Business Intelligence • Applied Data Science
 
-### What does 90 ECTS mean?
+### 🤖 Introduction to Advanced Business Analytics with AI — Oxford Saïd
 
-**ECTS (European Credit Transfer and Accumulation System)** is a European framework for measuring student workload and academic achievement.
+**Saïd Business School, University of Oxford**
 
-For this programme:
+Completed the **Introduction to Advanced Business Analytics with AI** course, focused on applying business analytics and AI to data-driven decision-making, strategic and operational outcomes, and responsible AI adoption.
 
-**90 ECTS × 25 hours = 2,250 total learning hours**
+**Key Areas:**  
+Business Analytics • Generative AI • AI for Decision-Making • Predictive & Prescriptive Analytics • AI Risk & Ethics • Real-World Case Studies
 
-The programme is structured across three academic tiers:
+- **Institution:** Saïd Business School, University of Oxford
+- **Completed:** August 2026
+- **Academic Credit:** 1 credit
+- **Credential:** University of Oxford, Saïd Business School
 
-- **Tier 1 — Foundations:** 18 ECTS
-- **Tier 2 — Advanced / Elective study:** 42 ECTS
-- **Tier 3 — Applied Data Science Practicum / Capstone:** 30 ECTS
+### 🎓 Master of Business Administration (MBA)
 
-The curriculum covers areas such as **exploratory data analysis, statistics, predictive modelling, machine learning, data visualisation, SQL/data management, business intelligence, advanced analytics and applied data science**.
+**Business Management • Strategy • Marketing • Operations • Entrepreneurship**
 
-The final applied component is designed around solving a **real-world data problem**, connecting academic learning with practical data-science work.
+### 🎓 Bachelor of Engineering (B.E.)
+
+**Engineering**
 
 ---
 
@@ -68,7 +69,7 @@ SQL • GoogleSQL • BigQuery • Python • Pandas • Excel • Exploratory D
 Tableau • Power BI • Looker Studio • Dashboarding • KPI Analysis • Reporting
 
 ### Data Science & AI
-Machine Learning • Feature Engineering • Predictive Analytics • Generative AI • LLMs • Prompt Engineering
+Machine Learning • Feature Engineering • Predictive Analytics • Generative AI • LLMs • Prompt Engineering • AI-assisted Analytics
 
 ### Tools
 Git • GitHub • Google Colab • Jupyter • Google Sheets
@@ -163,9 +164,9 @@ My approach:
 - Advanced SQL and analytical problem solving
 - Python for data science
 - Statistics and machine learning
-- Advanced business analytics
-- Generative AI and LLM applications
 - Applied data science
+- Generative AI and LLM applications
+- AI-assisted business analytics
 
 ---
 
