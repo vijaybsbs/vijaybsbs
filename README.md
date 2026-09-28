@@ -87,7 +87,15 @@ Interactive business intelligence dashboard focused on sales performance, produc
 
 End-to-end restaurant analysis covering pricing, ratings, online delivery, customer engagement, cuisine analysis, segmentation, city-level market profiling and a project-defined Market Opportunity Score.
 
-**Business focus:** restaurant performance • customer engagement • pricing • digital adoption • city markets
+**Selected findings & business implications**
+- **90.59%** of the 9,551 restaurant records are from India → overall dataset-level conclusions are strongly influenced by the Indian market.
+- Customer engagement is highly skewed: **31 median votes vs 157 mean votes**, with a maximum of **10,934 votes**.
+- **1,094 restaurants have zero votes**, while **2,148 restaurants have Rating ≤ 1.0 and Votes ≤ 3** → engagement level should be considered when interpreting restaurant performance.
+- Higher price ranges show higher average ratings and recorded engagement: **Price Range 1 = 2.33 rating / 36 votes** versus **Price Range 4 = 3.66 rating / 404 votes**.
+- **3,022 Indian restaurants serving Indian cuisine do not offer online delivery** → the dataset shows a measurable digital-adoption gap.
+- The highest-voted city–cuisine combination is **New Delhi — North Indian | Mughlai with 27,951 total votes**.
+
+**Business focus:** restaurant performance • customer engagement • pricing • digital adoption • cuisine analysis • city markets
 
 **Key skills:** SQL • Python • Pandas • EDA • Segmentation • Business Analysis
 
