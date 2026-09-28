@@ -66,7 +66,7 @@ Sales • Revenue • CRM • Customer Analytics • Lead Management • Busines
 SQL • GoogleSQL • BigQuery • Python • Pandas • Excel • Exploratory Data Analysis • Statistics
 
 ### Business Intelligence
-Tableau • Power BI • Looker Studio • Dashboarding • KPI Analysis • Reporting
+Tableau • Looker Studio • Dashboarding • KPI Analysis • Reporting • Power BI
 
 ### Data Science & AI
 Machine Learning • Feature Engineering • Predictive Analytics • Generative AI • LLMs • Prompt Engineering • AI-assisted Analytics
