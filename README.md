@@ -57,7 +57,13 @@ Retail sales and inventory analysis across **50 stores and 35 products**, coveri
 
 Bike rental demand analysis using exploratory data analysis and statistical hypothesis testing to evaluate the impact of working days, seasons, weather and environmental factors on demand.
 
-**Analytical focus:** demand drivers • hypothesis testing • statistical significance • seasonality • weather effects
+**Statistical findings**
+- **Working days:** independent 2-sample t-test → **t = 1.210, p = 0.2264** → no statistically significant difference in average rentals between working and non-working days.
+- **Season:** one-way ANOVA → **F = 236.95, p = 6.16 × 10⁻¹⁴⁹** → rental demand differs significantly across seasons; Fall has the highest median and Spring the lowest in the analysis.
+- **Weather:** one-way ANOVA → **F = 65.53, p = 5.48 × 10⁻⁴²** → rental demand differs significantly across weather conditions; clear weather has the highest median, while light snow has the lowest.
+- **Season × Weather:** chi-square test → **χ² = 46.10, df = 6, p = 2.83 × 10⁻⁸** after excluding the single heavy-rain observation because the original expected-frequency assumption was violated → season and weather are statistically associated.
+
+**Business implication:** demand planning should account for **season and weather conditions** rather than treating working-day status alone as a significant demand driver.
 
 **Key skills:** Python • Pandas • EDA • Statistics • Hypothesis Testing • Business Analytics
 
