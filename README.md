@@ -100,6 +100,13 @@ End-to-end restaurant analysis covering pricing, ratings, online delivery, custo
 
 Logistics data analysis and feature engineering to transform trip-level operational data into model-ready features for route, delivery and performance analysis.
 
+**Selected findings & business implications**
+- **144,867 operational records** represent **14,817 unique trips** across approximately **27 days** of data.
+- Average **actual trip time is 417 minutes vs 214 minutes estimated by OSRM** → actual operations take substantially longer than routing estimates on average, making estimate-vs-actual gaps important for operational planning.
+- Average **actual distance is 234 km vs 285 km OSRM estimated distance** → routing distance and observed operational distance differ materially and should be evaluated separately rather than treated as interchangeable measures.
+- The dataset contains **1,500+ source/destination logistics centers**, providing a broad geographic basis for route and hub-level analysis.
+- **293 source-name and 261 destination-name values were missing** before preprocessing, representing less than **0.3%** of the 144,867 records; no duplicate records were identified.
+
 **Business focus:** trip-level grain • route performance • actual vs estimated distance/time • operational feature engineering
 
 **Key skills:** Python • Pandas • Data Cleaning • Feature Engineering • Operational Analytics
