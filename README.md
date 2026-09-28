@@ -1,78 +1,17 @@
 # 👋 Hi, I'm Vijay Kumar
 
-### Business Analytics | Data Analytics | Data Science | Gen AI
+### Business Analytics | Data Analytics | BI
 
-I am a **business professional with experience in Business Development, Sales, CRM, Manufacturing and Entrepreneurship**, now specializing in **Data Analytics, Business Intelligence and Data Science**.
+I am a **business professional with experience in Business Development, Sales, CRM, Manufacturing and Entrepreneurship**, now specializing in **Data Analytics, Business Intelligence and data-driven decision-making**.
 
-I combine **business understanding with data and technology** to transform business problems into **measurable insights, actionable recommendations and data-driven decisions**.
-
-My approach:
+I combine **business understanding with data and technology** to transform business problems into **measurable insights, actionable recommendations and business decisions**.
 
 **Business Problem → Data → Analysis → Insight → Action**
 
 📍 Bengaluru, India  
 💼 Assistant Manager – Business Development  
 🎓 Pursuing **MS in Data Science through the Scaler–Woolf pathway**  
-🎯 Target roles: **Data Analyst | Business Analyst | BI Analyst | Business Analytics | Data Science**
-
----
-
-## 🎓 Education & Professional Learning
-
-### MS in Data Science — Scaler × Woolf
-
-I am pursuing a **Master of Science (MS) in Data Science** through the Scaler learning pathway, with the academic degree awarded by **Woolf Higher Education Institution**.
-
-- **Degree:** Master of Science (MS) in Data Science
-- **Academic Institution:** Woolf Higher Education Institution
-- **Learning Pathway:** Scaler
-- **Level:** EQF Level 7
-- **Academic Credits:** 90 ECTS
-- **Delivery:** Online
-
-**Core Areas:**  
-Data Analytics • Statistics • SQL • Python • Machine Learning • Predictive Modelling • Data Visualisation • Business Intelligence • Applied Data Science
-
-### 🤖 Introduction to Advanced Business Analytics with AI — Oxford Saïd
-
-**Saïd Business School, University of Oxford**
-
-Completed the **Introduction to Advanced Business Analytics with AI** course, focused on applying business analytics and AI to data-driven decision-making, strategic and operational outcomes, and responsible AI adoption.
-
-**Key Areas:**  
-Business Analytics • Generative AI • AI for Decision-Making • Predictive & Prescriptive Analytics • AI Risk & Ethics • Real-World Case Studies
-
-- **Institution:** Saïd Business School, University of Oxford
-- **Completed:** August 2026
-- **Academic Credit:** 1 credit
-- **Credential:** University of Oxford, Saïd Business School
-
-### 🎓 Master of Business Administration (MBA) - Mysore University
-
-**Business Management • Strategy • Marketing • Operations • Entrepreneurship**
-
-### 🎓 Bachelor of Engineering (B.E.- Mechatronics)
-
-**Engineering**
-
----
-
-## 🔎 What I Bring
-
-### Business Understanding
-Sales • Revenue • CRM • Customer Analytics • Lead Management • Business Development • Market Analysis
-
-### Data Analytics
-SQL • GoogleSQL • BigQuery • Python • Pandas • Excel • Exploratory Data Analysis • Statistics
-
-### Business Intelligence
-Tableau • Looker Studio • Dashboarding • KPI Analysis • Reporting • Power BI
-
-### Data Science & AI
-• Feature Engineering • Generative AI • Prompt Engineering • AI-assisted Analytics
-
-### Tools
-Git • GitHub • Google Colab • Jupyter • Google Sheets
+🎯 Target roles: **Data Analyst | Business Analyst | BI Analyst**
 
 ---
 
@@ -83,7 +22,13 @@ Git • GitHub • Google Colab • Jupyter • Google Sheets
 
 End-to-end e-commerce analytics covering data quality, customer behaviour, geography, order economics, payments, logistics, delivery performance, customer experience and RFM analysis.
 
-**Key skills:** SQL • Data Modelling • CTEs • Window Functions • RFM • KPI Analysis • Dashboarding
+**Selected findings**
+- **97%** of active customers are one-time buyers; repeat customers represent **3%**.
+- **48.85%** of customers account for **80% of observed customer value**.
+- São Paulo, Rio de Janeiro and Minas Gerais represent **61.24%** of recent high-value one-time customers.
+- **80.82%** of recent high-value one-time orders contain a single item.
+
+**Key skills:** SQL • BigQuery • Data Modelling • CTEs • Window Functions • RFM • KPI Analysis • Dashboarding
 
 🔗 [View Project](https://github.com/vijaybsbs/Target-Brazil-Ecommerce-Analytics)
 
@@ -92,9 +37,15 @@ End-to-end e-commerce analytics covering data quality, customer behaviour, geogr
 ### 🧸 Maven Toys Retail Sales & Inventory Optimization
 **BigQuery / GoogleSQL / Looker Studio**
 
-Retail sales and inventory analysis across 50 stores and 35 products, including revenue, cost, product performance, store performance, pricing and Pareto analysis.
+Retail sales and inventory analysis across **50 stores and 35 products**, covering revenue, cost, product performance, store performance, pricing, inventory risk and Pareto analysis.
 
-**Key skills:** SQL • Window Functions • Ranking • Pareto Analysis • Retail Analytics • Dashboarding
+**Selected findings**
+- **$14.44M revenue**, **$4.01M gross profit** and **27.79% gross margin**.
+- The top **15 of 35 products generate approximately 80.08% of revenue**.
+- Toys is the largest revenue category at **35.26%**, while Electronics has the highest gross margin at **44.57%**.
+- The top five cities contribute approximately **41.58% of revenue**.
+
+**Key skills:** SQL • Window Functions • Ranking • Pareto Analysis • Retail Analytics • Inventory Analysis • Dashboarding
 
 🔗 [View Project](https://github.com/vijaybsbs/Maven-Toys-Retail-Sales-Inventory-Optimization)
 
@@ -112,18 +63,54 @@ Interactive business intelligence dashboard focused on sales performance, produc
 ### 🍽️ Zomato Restaurant Business Analysis
 **SQL + Python**
 
-Business analysis covering restaurant distribution, ratings, pricing, online delivery, customer engagement, cuisine analysis, segmentation and market opportunity.
+End-to-end restaurant analysis covering pricing, ratings, online delivery, customer engagement, cuisine analysis, segmentation, city-level market profiling and a project-defined Market Opportunity Score.
 
-🔗 [View Project](https://github.com/vijaybsbs/zomato_case_study_using_sql)
+**Business focus:** restaurant performance • customer engagement • pricing • digital adoption • city markets
+
+**Key skills:** SQL • Python • Pandas • EDA • Segmentation • Business Analysis
+
+🔗 [View Project](https://github.com/vijaybsbs/Zomato-Restaurant-Business-Analysis)
 
 ---
 
-### 🚚 Delhivery Business Case Study
-**Python / Pandas / Feature Engineering**
+### 🚚 Delhivery Logistics Data Analysis & Feature Engineering
+**Python / Pandas**
 
-Data preparation and feature-engineering analysis for operational and business analytics.
+Logistics data analysis and feature engineering to transform trip-level operational data into model-ready features for route, delivery and performance analysis.
 
-🔗 [View Project](https://github.com/vijaybsbs/Delhivery-Business-Case-Study---Feature-Engineering)
+**Key skills:** Python • Pandas • Data Cleaning • Feature Engineering • Operational Analytics
+
+🔗 [View Project](https://github.com/vijaybsbs/Delhivery-Logistics-Data-Analysis-and-Feature-Engineering)
+
+---
+
+### 🚲 Yulu Bike Rental Demand & Hypothesis Testing
+**Python / EDA / Statistics**
+
+Bike rental demand analysis using exploratory data analysis and statistical hypothesis testing to evaluate the impact of working days, seasons, weather and environmental factors on demand.
+
+**Key skills:** Python • Pandas • EDA • Statistics • Hypothesis Testing • Business Analytics
+
+🔗 [View Project](https://github.com/vijaybsbs/Yulu-Bike-Rental-Demand-Hypothesis-Testing-and-Business-Analytics)
+
+---
+
+## 🔎 Core Business & Data Skills
+
+### Business Analytics
+Sales • Revenue Analysis • CRM Analytics • Customer Analytics • Lead Funnel Analysis • Market Analysis • KPI Reporting
+
+### Data Analytics
+SQL • GoogleSQL • BigQuery • Python • Pandas • Excel • Exploratory Data Analysis • Statistics
+
+### Business Intelligence
+Tableau • Looker Studio • Dashboarding • KPI Analysis • Data Visualization
+
+### AI
+Generative AI • Prompt Engineering • AI-assisted Analytics
+
+### Tools
+Git • GitHub • Google Colab • Jupyter • Google Sheets
 
 ---
 
@@ -160,22 +147,35 @@ I use **SQL, Python, Excel, BigQuery and BI tools** to connect business question
 
 ---
 
-## 🛠️ Technology Stack
+## 🎓 Education & Professional Learning
 
-### Core Analytics
-SQL • GoogleSQL • BigQuery • Python • Pandas • Excel
+### MS in Data Science — Scaler × Woolf
 
-### BI & Visualization
-Tableau • Power BI • Looker Studio • Dashboarding • KPI Analysis
+I am pursuing a **Master of Science (MS) in Data Science** through the Scaler learning pathway, with the academic degree awarded by **Woolf Higher Education Institution**.
 
-### Data Science
-Statistics • Exploratory Data Analysis • Feature Engineering
+**Core Areas:**  
+Data Analytics • Statistics • SQL • Python • Machine Learning • Data Visualisation • Business Intelligence • Applied Data Science
 
-### AI
-Generative AI • AI-assisted Analytics
+### 🤖 Introduction to Advanced Business Analytics with AI — Oxford Saïd
 
-### Tools
-Git • GitHub • Google Colab • Jupyter • Google Sheets
+**Saïd Business School, University of Oxford**
+
+Completed the **Introduction to Advanced Business Analytics with AI** course, focused on applying business analytics and AI to data-driven decision-making, strategic and operational outcomes, and responsible AI adoption.
+
+**Key Areas:**  
+Business Analytics • Generative AI • AI for Decision-Making • Predictive & Prescriptive Analytics • AI Risk & Ethics • Real-World Case Studies
+
+- **Completed:** August 2026
+- **Academic Credit:** 1 credit
+- **Credential:** University of Oxford, Saïd Business School
+
+### 🎓 Master of Business Administration (MBA) — Mysore University
+
+**Business Management • Strategy • Marketing • Operations • Entrepreneurship**
+
+### 🎓 Bachelor of Engineering (B.E.) — Mechatronics
+
+**Engineering**
 
 ---
 
@@ -183,8 +183,7 @@ Git • GitHub • Google Colab • Jupyter • Google Sheets
 
 - Advanced SQL and analytical problem solving
 - Python for data science and applied analytics
-- Statistics and machine learning
-- Applied data science and predictive modelling
+- Statistics and applied data analysis
 - Generative AI and LLM applications
 - AI-assisted business analytics
 
@@ -194,9 +193,9 @@ Git • GitHub • Google Colab • Jupyter • Google Sheets
 
 I am interested in opportunities where I can combine **business understanding, analytics and technology** to solve real-world business problems.
 
-**Primary:** Data Analyst • Business Analyst • BI Analyst • Business Analytics
+**Primary:** Data Analyst • Business Analyst • BI Analyst
 
-**Growth Areas:** Data Science • Applied Analytics • AI & Analytics
+**Growth Areas:** Business Analytics • Applied Analytics • Data Science • AI & Analytics
 
 ---
 
@@ -204,4 +203,3 @@ I am interested in opportunities where I can combine **business understanding, a
 
 - 💼 LinkedIn: [Vijay Kumar](https://www.linkedin.com/in/vijaybsbs/)
 - 💻 GitHub: [@vijaybsbs](https://github.com/vijaybsbs)
-
