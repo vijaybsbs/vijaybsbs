@@ -47,11 +47,11 @@ Business Analytics • Generative AI • AI for Decision-Making • Predictive &
 - **Academic Credit:** 1 credit
 - **Credential:** University of Oxford, Saïd Business School
 
-### 🎓 Master of Business Administration (MBA)
+### 🎓 Master of Business Administration (MBA) - Mysore University
 
 **Business Management • Strategy • Marketing • Operations • Entrepreneurship**
 
-### 🎓 Bachelor of Engineering (B.E.)
+### 🎓 Bachelor of Engineering (B.E.- Mechatronics)
 
 **Engineering**
 
