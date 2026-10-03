@@ -15,6 +15,7 @@ I combine **business understanding with data and technology** to transform busin
 
 ## 📫 Connect
 
+- 🌐 Portfolio: [vijaybsbs.github.io](https://vijaybsbs.github.io/)
 - 💼 LinkedIn: [Vijay Kumar](https://www.linkedin.com/in/vijaybsbs/)
 - 💻 GitHub: [@vijaybsbs](https://github.com/vijaybsbs)
 
@@ -29,7 +30,7 @@ End-to-end e-commerce analytics covering data quality, customer behaviour, geogr
 
 **Selected findings & business implications**
 - **97%** of active customers are one-time buyers; repeat customers represent only **3%** → retention initiatives should focus on converting one-time buyers into repeat customers.
-- **48.85%** of customers account for **80% of observed customer value** → customer-value concentration can help prioritize retention and targeted engagement.
+- **48.85%** of customers account for **80%** of observed customer value → customer-value concentration can help prioritize retention and targeted engagement.
 - São Paulo, Rio de Janeiro and Minas Gerais represent **61.24%** of recent high-value one-time customers → these markets provide a clear geographic focus for retention and cross-sell initiatives.
 - **80.82%** of recent high-value one-time orders contain a single item → cross-sell and basket-expansion opportunities should be investigated for high-value one-time customers.
 
