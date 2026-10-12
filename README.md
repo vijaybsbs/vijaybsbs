@@ -97,24 +97,29 @@ Interactive business intelligence dashboard focused on sales performance, revenu
 
 ---
 
-### 🍽️ Zomato Restaurant Business Analysis
-**SQL + Python**
+### 🍽️ Zomato Restaurant Market Analysis
+**SQL + Python / Pandas + Power BI / DAX**
 
-End-to-end restaurant analysis covering pricing, ratings, online delivery, customer engagement, cuisine analysis, segmentation, city-level market profiling and a project-defined Market Opportunity Score.
+An end-to-end restaurant analytics case study covering SQL business questions, exploratory data analysis, data-quality validation, Python-based cleaning and feature engineering, and a six-page Power BI dashboard.
+
+The project evolved through three phases: SQL analysis → Python EDA → corrected analysis and interactive BI reporting. Deeper investigation uncovered rating placeholders and sampling limitations that changed several earlier conclusions.
 
 **Selected findings & business implications**
-- **90.59%** of the 9,551 restaurant records are from India → overall dataset-level conclusions are strongly influenced by the Indian market.
-- Customer engagement is highly skewed: **31 median votes vs 157 mean votes**, with a maximum of **10,934 votes**.
-- **1,094 restaurants have zero votes**, while **2,148 restaurants have Rating ≤ 1.0 and Votes ≤ 3** → engagement level should be considered when interpreting restaurant performance.
-- Higher price ranges show higher average ratings and recorded engagement: **Price Range 1 = 2.33 rating / 36 votes** versus **Price Range 4 = 3.66 rating / 404 votes**.
-- **3,022 Indian restaurants serving Indian cuisine do not offer online delivery** → the dataset shows a measurable digital-adoption gap.
-- The highest-voted city–cuisine combination is **New Delhi — North Indian | Mughlai with 27,951 total votes**.
 
-**Business focus:** restaurant performance • customer engagement • pricing • digital adoption • cuisine analysis • city markets
+- **90.59% of the original 9,551 records are from India** (8,652 restaurants). Because the dataset mixes countries and contains inconsistent currency labels, the final pricing and market analysis focuses on India.
+- **Data quality changed the rating story:** 2,139 Indian restaurants with fewer than four votes had a placeholder rating of 1.0. Treating these as *not rated yet* raised the average Indian rating from **2.77 to 3.35**.
+- **City comparisons required a sampling check:** 28 Indian cities had exactly 20 listings. The final analysis restricts city-level comparisons to cities with at least 100 restaurants, avoiding misleading conclusions from small samples.
+- **Delhi NCR accounts for 92% of India's listed restaurants** (7,947 of 8,652), with New Delhi alone contributing 63%—highlighting the dataset's strong geographic concentration.
+- **Price and ratings:** cleaned average ratings rise from **3.20 in Budget to 3.74 in Luxury**, but the difference between Premium and Luxury is only 0.06 rating points, despite roughly twice the cost.
+- **Delivery opportunity:** 64% of restaurants offer neither online delivery nor table booking. Gurgaon leads the qualifying city comparisons on delivery adoption at **38.0%**, while New Delhi's scale suggests a substantial potential delivery gap.
 
-**Key skills:** SQL • Python • Pandas • EDA • Segmentation • Business Analysis
+**Power BI dashboard:** Six pages covering dataset scope, data quality, market overview, ratings and engagement, price and value, and delivery and services.
 
-🔗 [View Project](https://github.com/vijaybsbs/Zomato-Restaurant-Business-Analysis)
+**Key skills:** SQL • Python • Pandas • Data Cleaning • Feature Engineering • EDA • Power BI • DAX • Data Modelling • Business Analytics
+
+🔗 [View Project & Dashboard](https://github.com/vijaybsbs/Zomato-Restaurant-Business-Analysis)
+
+📄 [View 6-Page Power BI Dashboard (PDF)](https://github.com/vijaybsbs/Zomato-Restaurant-Business-Analysis/blob/main/Powerbi/Zomato%20Powerbi%20-%20pdf.pdf)
 
 ---
 
